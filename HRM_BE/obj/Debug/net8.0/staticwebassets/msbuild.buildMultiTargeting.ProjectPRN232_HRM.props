@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjectPRN232_HRM.props" />
+</Project>

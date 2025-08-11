@@ -1,0 +1,116 @@
+### Test Authentication API
+
+### 1. Đăng nhập
+POST https://localhost:7000/api/auth/login
+Content-Type: application/json
+
+{
+  "emailOrEmployeeCode": "admin@company.com",
+  "password": "admin123",
+  "rememberMe": false
+}
+
+### 2. Đăng nhập với Remember Me
+POST https://localhost:7000/api/auth/login
+Content-Type: application/json
+
+{
+  "emailOrEmployeeCode": "employee@company.com",
+  "password": "employee123",
+  "rememberMe": true
+}
+
+### 3. Quên mật khẩu
+POST https://localhost:7000/api/auth/forgot-password
+Content-Type: application/json
+
+{
+  "email": "employee@company.com"
+}
+
+### 4. Đặt lại mật khẩu (sử dụng token từ email)
+POST https://localhost:7000/api/auth/reset-password
+Content-Type: application/json
+
+{
+  "email": "employee@company.com",
+  "token": "your-reset-token-here",
+  "newPassword": "newpassword123",
+  "confirmPassword": "newpassword123"
+}
+
+### 5. Đổi mật khẩu (yêu cầu đăng nhập)
+POST https://localhost:7000/api/auth/change-password
+Content-Type: application/json
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+{
+  "currentPassword": "oldpassword123",
+  "newPassword": "newpassword123",
+  "confirmPassword": "newpassword123"
+}
+
+### 6. Lấy thông tin user hiện tại
+GET https://localhost:7000/api/auth/me
+Authorization: Bearer YOUR_JWT_TOKEN_HERE
+
+### 7. Đăng xuất
+POST https://localhost:7000/api/auth/logout
+Content-Type: application/json
+
+"userId"
+
+### ========================================
+### Quản lý tài khoản (HR/Admin)
+### ========================================
+
+### 8. Tạo tài khoản cho nhân viên
+POST https://localhost:7000/api/employeeaccount/create-account
+Content-Type: application/json
+Authorization: Bearer YOUR_ADMIN_TOKEN_HERE
+
+{
+  "employeeId": 1,
+  "password": "initialpassword123",
+  "role": "Employee"
+}
+
+### 9. Gán role cho nhân viên
+POST https://localhost:7000/api/employeeaccount/assign-role
+Content-Type: application/json
+Authorization: Bearer YOUR_ADMIN_TOKEN_HERE
+
+{
+  "employeeId": 1,
+  "role": "Manager"
+}
+
+### 10. Lấy danh sách nhân viên chưa có tài khoản
+GET https://localhost:7000/api/employeeaccount/employees-without-account
+Authorization: Bearer YOUR_ADMIN_TOKEN_HERE
+
+### 11. Lấy danh sách nhân viên đã có tài khoản
+GET https://localhost:7000/api/employeeaccount/employees-with-account
+Authorization: Bearer YOUR_ADMIN_TOKEN_HERE
+
+### ========================================
+### Test Authorization
+### ========================================
+
+### 12. Test endpoint yêu cầu Admin role
+GET https://localhost:7000/api/employeeaccount/employees-with-account
+Authorization: Bearer YOUR_EMPLOYEE_TOKEN_HERE
+
+### 13. Test endpoint yêu cầu đăng nhập
+GET https://localhost:7000/api/auth/me
+Authorization: Bearer INVALID_TOKEN_HERE
+
+### ========================================
+### Variables cho testing
+### ========================================
+
+# Sau khi đăng nhập thành công, copy token từ response và thay thế YOUR_JWT_TOKEN_HERE
+# Ví dụ: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+
+# Để test quên mật khẩu, cần cấu hình email trong appsettings.json
+# Token reset password sẽ được gửi qua email 
