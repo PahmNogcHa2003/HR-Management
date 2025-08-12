@@ -37,7 +37,7 @@ public class EmailService : IEmailService
             {
                 EnableSsl = true,
                 Credentials = new NetworkCredential(smtpUsername, smtpPassword),
-                Timeout = 10000 // 10 giây
+                Timeout = 10000 
             };
 
             var mailMessage = new MailMessage

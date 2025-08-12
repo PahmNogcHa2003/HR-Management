@@ -22,6 +22,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\Admin\" />
+    <Folder Include="Controllers\HR\" />
+    <Folder Include="Controllers\Manager\" />
     <Folder Include="Migrations\" />
   </ItemGroup>
 

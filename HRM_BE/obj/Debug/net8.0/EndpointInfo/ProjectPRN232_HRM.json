@@ -2581,12 +2581,12 @@
           },
           "dob": {
             "type": "string",
-            "format": "date-time",
+            "format": "date",
             "nullable": true
           },
           "joinDate": {
             "type": "string",
-            "format": "date-time"
+            "format": "date"
           },
           "email": {
             "type": "string",
@@ -2682,12 +2682,12 @@
           },
           "dob": {
             "type": "string",
-            "format": "date-time",
+            "format": "date",
             "nullable": true
           },
           "joinDate": {
             "type": "string",
-            "format": "date-time"
+            "format": "date"
           },
           "email": {
             "type": "string",

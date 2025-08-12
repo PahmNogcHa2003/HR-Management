@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "ChangePassword",
     "RelativePath": "api/Auth/change-password",
     "HttpMethod": "POST",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "ForgotPassword",
     "RelativePath": "api/Auth/forgot-password",
     "HttpMethod": "POST",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "Logout",
     "RelativePath": "api/Auth/logout",
     "HttpMethod": "POST",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "GetCurrentUser",
     "RelativePath": "api/Auth/me",
     "HttpMethod": "GET",
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.AuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.AuthController",
     "Method": "ResetPassword",
     "RelativePath": "api/Auth/reset-password",
     "HttpMethod": "POST",
@@ -402,7 +402,7 @@
     ]
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.TestAuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.TestAuthController",
     "Method": "GetAdminData",
     "RelativePath": "api/TestAuth/admin",
     "HttpMethod": "GET",
@@ -412,7 +412,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.TestAuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.TestAuthController",
     "Method": "GetEmployeeData",
     "RelativePath": "api/TestAuth/employee",
     "HttpMethod": "GET",
@@ -422,7 +422,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ProjectPRN232_HRM.Controllers.TestAuthController",
+    "ContainingType": "ProjectPRN232_HRM.Controllers.Auth.TestAuthController",
     "Method": "GetProtectedData",
     "RelativePath": "api/TestAuth/protected",
     "HttpMethod": "GET",

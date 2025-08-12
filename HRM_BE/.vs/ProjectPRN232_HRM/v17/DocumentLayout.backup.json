@@ -1,121 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PRN232\\ProjectPRN232_HRM\\",
+  "WorkspaceRootPath": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\controllers\\testauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\testauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\employee\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\employee\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\controllers\\employeeaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\employeeaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\admininitializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\admininitializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\authtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:authtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\readme_auth.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:readme_auth.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\dtos\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\employeeaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\employeeaccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\admininitializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\admininitializationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\dtos\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\employeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\setup_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:setup_guide.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\readme_auth.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:readme_auth.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\projectprn232_hrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:projectprn232_hrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\authtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:authtest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\auth\\testauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\auth\\testauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\dtos\\employeetrainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\dtos\\employeetrainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:dtos\\employeetrainingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\positionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\migrations\\20250711033319_addidentityanduseremployeerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\migrations\\20250711033319_addidentityanduseremployeerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:migrations\\20250711033319_addidentityanduseremployeerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\employeetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\employeetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\employeetraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\employeedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\employeedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\employeedocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\odata\\odataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\odata\\odataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:odata\\odataconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\projectprn232_hrm\\services\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|d:\\prn232\\prn232_hrm\\hr-management\\hrm_be\\services\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F142D503-4413-44DF-B48E-CBBC2BA9828F}|ProjectPRN232_HRM.csproj|solutionrelative:services\\interface\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -126,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,84 +142,126 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Employee\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Employee\\ProfileController.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Employee\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\Employee\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T07:30:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SETUP_GUIDE.md",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\SETUP_GUIDE.md",
+              "RelativeDocumentMoniker": "SETUP_GUIDE.md",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\SETUP_GUIDE.md",
+              "RelativeToolTip": "SETUP_GUIDE.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-11T12:09:00.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectPRN232_HRM.http",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\ProjectPRN232_HRM.http",
+              "RelativeDocumentMoniker": "ProjectPRN232_HRM.http",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\ProjectPRN232_HRM.http",
+              "RelativeToolTip": "ProjectPRN232_HRM.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T11:42:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "TestAuthController.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\TestAuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TestAuthController.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\TestAuthController.cs",
-              "RelativeToolTip": "Controllers\\TestAuthController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAALAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Auth\\TestAuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth\\TestAuthController.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Auth\\TestAuthController.cs",
+              "RelativeToolTip": "Controllers\\Auth\\TestAuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T11:38:45.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AdminInitializationService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\AdminInitializationService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\AdminInitializationService.cs",
               "RelativeDocumentMoniker": "Services\\AdminInitializationService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\AdminInitializationService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\AdminInitializationService.cs",
               "RelativeToolTip": "Services\\AdminInitializationService.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:29:20.348Z"
+              "WhenOpened": "2025-08-08T18:29:20.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "README_AUTH.md",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\README_AUTH.md",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\README_AUTH.md",
               "RelativeDocumentMoniker": "README_AUTH.md",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\README_AUTH.md",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\README_AUTH.md",
               "RelativeToolTip": "README_AUTH.md",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABcBAAAAon+FyFkfwCIBAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-08-08T18:28:25.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EmployeeAccountController.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\EmployeeAccountController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\EmployeeAccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeAccountController.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\EmployeeAccountController.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\EmployeeAccountController.cs",
               "RelativeToolTip": "Controllers\\EmployeeAccountController.cs",
-              "ViewState": "AgIAAN0AAAAAAAAAAAAowBcBAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:26:01.082Z"
+              "WhenOpened": "2025-08-08T18:26:01.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\EmailService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "Services\\EmailService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\EmailService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\EmailService.cs",
               "RelativeToolTip": "Services\\EmailService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAiwBkAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:12:51.286Z"
+              "WhenOpened": "2025-08-08T18:12:51.286Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\AuthService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\AuthService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\AuthService.cs",
               "RelativeToolTip": "Services\\AuthService.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAowMAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABUBAAAAAAAAAADwv5IAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-08T18:09:46.849Z"
+              "WhenOpened": "2025-08-08T18:09:46.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "AuthTest.http",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\AuthTest.http",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\AuthTest.http",
               "RelativeDocumentMoniker": "AuthTest.http",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\AuthTest.http",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\AuthTest.http",
               "RelativeToolTip": "AuthTest.http",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -219,23 +269,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "EmployeeDetailDTO.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeDetailDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeDetailDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDetailDTO.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeDetailDTO.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeDetailDTO.cs",
               "RelativeToolTip": "DTOs\\EmployeeDetailDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:46:52.634Z"
+              "WhenOpened": "2025-08-05T14:46:52.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\MappingProfile\\MappingProfile.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\MappingProfile\\MappingProfile.cs",
               "RelativeDocumentMoniker": "MappingProfile\\MappingProfile.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\MappingProfile\\MappingProfile.cs",
               "RelativeToolTip": "MappingProfile\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,36 +294,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthDTO.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\AuthDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\AuthDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\AuthDTO.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\AuthDTO.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\AuthDTO.cs",
               "RelativeToolTip": "DTOs\\AuthDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:40:44.987Z"
+              "WhenOpened": "2025-08-05T14:40:44.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAuwKYAAAA9AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T14:32:51.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "EmployeeTrainingDTO.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeTrainingDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeTrainingDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeTrainingDTO.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeTrainingDTO.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeTrainingDTO.cs",
               "RelativeToolTip": "DTOs\\EmployeeTrainingDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PositionService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\PositionService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\PositionService.cs",
               "RelativeDocumentMoniker": "Services\\PositionService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\PositionService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\PositionService.cs",
               "RelativeToolTip": "Services\\PositionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -292,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\EmployeeService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Services\\EmployeeService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20250711033319_AddIdentityAndUserEmployeeRelation.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
               "RelativeDocumentMoniker": "Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
               "RelativeToolTip": "Migrations\\20250711033319_AddIdentityAndUserEmployeeRelation.cs",
               "ViewState": "AgIAALcAAAAAAAAAAAAkwNkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,23 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T03:16:39.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "EmployeeTraining.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\EmployeeTraining.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\EmployeeTraining.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeTraining.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\EmployeeTraining.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\EmployeeTraining.cs",
               "RelativeToolTip": "Models\\EmployeeTraining.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -340,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "EmployeeDocument.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\EmployeeDocument.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\EmployeeDocument.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeDocument.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\EmployeeDocument.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\EmployeeDocument.cs",
               "RelativeToolTip": "Models\\EmployeeDocument.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Contract.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Contract.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Contract.cs",
               "RelativeDocumentMoniker": "Models\\Contract.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Contract.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Contract.cs",
               "RelativeToolTip": "Models\\Contract.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Attendance.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Attendance.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Attendance.cs",
               "RelativeDocumentMoniker": "Models\\Attendance.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Attendance.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Attendance.cs",
               "RelativeToolTip": "Models\\Attendance.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,35 +416,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "EmployeeDTO.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\EmployeeDTO.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\DTOs\\EmployeeDTO.cs",
               "RelativeToolTip": "DTOs\\EmployeeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T17:54:06.795Z"
+              "WhenOpened": "2025-07-09T17:54:06.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\appsettings.json",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\appsettings.json",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-09T17:39:17.548Z"
+              "WhenOpened": "2025-07-09T17:39:17.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Employee.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Employee.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +454,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ODataConfig.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\OData\\ODataConfig.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\OData\\ODataConfig.cs",
               "RelativeDocumentMoniker": "OData\\ODataConfig.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\OData\\ODataConfig.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\OData\\ODataConfig.cs",
               "RelativeToolTip": "OData\\ODataConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +466,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IDepartmentService.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\Interface\\IDepartmentService.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\Interface\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IDepartmentService.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Services\\Interface\\IDepartmentService.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Services\\Interface\\IDepartmentService.cs",
               "RelativeToolTip": "Services\\Interface\\IDepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,23 +478,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:16:05.153Z"
+              "WhenOpened": "2025-07-04T16:16:05.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +503,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Department.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Department.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Models\\Department.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Models\\Department.cs",
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,15 +515,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN232\\ProjectPRN232_HRM\\Program.cs",
+              "DocumentMoniker": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\PRN232\\ProjectPRN232_HRM\\Program.cs",
+              "ToolTip": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAowFAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:01:25.142Z"
+              "WhenOpened": "2025-07-04T16:01:25.142Z",
+              "EditorCaption": ""
             }
           ]
         }

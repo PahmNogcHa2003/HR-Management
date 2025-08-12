@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace ProjectPRN232_HRM.Controllers;
+namespace ProjectPRN232_HRM.Controllers.Auth;
 
 [ApiController]
 [Route("api/[controller]")]

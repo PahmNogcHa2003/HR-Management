@@ -4,7 +4,7 @@ using ProjectPRN232_HRM.DTOs;
 using ProjectPRN232_HRM.Services.Interface;
 using System.Security.Claims;
 
-namespace ProjectPRN232_HRM.Controllers;
+namespace ProjectPRN232_HRM.Controllers.Auth;
 
 [ApiController]
 [Route("api/[controller]")]

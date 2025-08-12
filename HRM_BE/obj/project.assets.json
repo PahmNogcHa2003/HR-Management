@@ -4954,11 +4954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN232\\ProjectPRN232_HRM\\ProjectPRN232_HRM.csproj",
+      "projectUniqueName": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\ProjectPRN232_HRM.csproj",
       "projectName": "ProjectPRN232_HRM",
-      "projectPath": "D:\\PRN232\\ProjectPRN232_HRM\\ProjectPRN232_HRM.csproj",
+      "projectPath": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\ProjectPRN232_HRM.csproj",
       "packagesPath": "C:\\Users\\pna29\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN232\\ProjectPRN232_HRM\\obj\\",
+      "outputPath": "D:\\PRN232\\PRN232_HRM\\HR-Management\\HRM_BE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio_Shared\\NuGetPackages"
